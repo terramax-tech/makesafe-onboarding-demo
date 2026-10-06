@@ -1,6 +1,7 @@
 # MakeSafe CT TSRA onboarding demo
 
-Live target: https://demo.tmx.llc
+Live site: https://demo-makesafe.tmx.llc
 
-Temporary Vercel URL: https://makesafe-onboarding-tdylanmaher-2151s-projects.vercel.app
+GitHub Pages custom domain: `demo-makesafe.tmx.llc`
+
 Repo: https://github.com/terramax-tech/makesafe-onboarding-demo
